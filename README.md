@@ -1,6 +1,6 @@
 # potential-fiesta
 ## About potential-fiesta
-This is NOT any sort of project, just a self-made archive of documents and information for tertiary education-related research. <br>
+This is NOT any sort of project, just a self-made archive of documents and information for tertiary-related research. <br>
 All data in *potential-fiesta* is collected online, the files will be uploaded and the source will be mentioned. <br>
 All copyright belongs to the source. NO commercial use is allowed. <br>
 If you would like to share this, be sure to mention the author(me). 		:D <br>
